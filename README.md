@@ -4,7 +4,7 @@
 
 This repository contains my personal notes and practical learning from the **TryHackMe Pre Security** learning path.
 
-I created this repository to document what I learn while building a career in cybersecurity.
+I created this repository to document what I learn while building a career in cybersecurity .
 
 ---
 
