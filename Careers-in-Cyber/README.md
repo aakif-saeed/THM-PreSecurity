@@ -17,5 +17,7 @@
 - Industry certifications and practical experience
 
 ## My Notes
-Cybersecurity offers many specialized career paths. Each role focuses on different aspects of security, but all require continuous learning, hands-on practice, and strong problem-solving skills.
+Cybersecurity offers many specialized career paths. Each role focuses on different aspects of security.
+Screenshots/Screenshots/Careers-in-Cyber/career in cyber 2.png
+continuous learning, hands-on practice, and strong problem-solving skills.
 
