@@ -22,7 +22,7 @@ Cybersecurity offers many specialized career paths. Each role focuses on differe
 
 ### Career Paths
 
-![Careers in Cyber 1](../Screenshots/Careers-in-Cyber/career-1.png)
+![Careers in Cyber 1](../Screenshots/CareersinCyber/carre.png)
 
 ### Learning
 
