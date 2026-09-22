@@ -12,7 +12,7 @@
 ## Skills Learned
 
 - Understanding different cybersecurity career paths
-- Required technical skills for each role
+- Required technical skills for each role.
 - Importance of continuous learning
 - Industry certifications and practical experience
 
